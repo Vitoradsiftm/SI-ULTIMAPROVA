@@ -177,11 +177,3 @@ Toda a atividade foi conduzida em **ambiente de rede isolado (Host-only)**, sem 
 
 ---
 
-## 8. Estrutura do repositório
-
-```
-/scripts        → wordlist (senha.txt) e comandos utilizados
-/logs           → log de autenticação do alvo (auth.log)
-/evidencias     → capturas de tela do ataque (Hydra) e do log
-README.md       → este relatório técnico
-```
